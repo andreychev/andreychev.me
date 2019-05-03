@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Philipp Andreychev -- Owner -- andreychev
+
+# THANKS
+
+    God
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3

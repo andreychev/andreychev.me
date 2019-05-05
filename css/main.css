@@ -56,7 +56,20 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    max-width: 640px;
+    padding: 2em;
+}
 
+.socio {
+    list-style-type: none;
+    padding: 0;
+}
+
+.socio li {
+    display: inline;
+    padding: 0;
+}
 
 
 
